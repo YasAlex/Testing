@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "mhsd",
+      "maintainer": "MHSD Labs",
+      "websiteURL": "http://www.mhsdlabs.com/",
+      "email": "inbox@mhsdlabs.com",
+
+      "platforms": [
+       {
+          "name": "Mhsd PLC Duino Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.mhsdlabs.com/"
+          },
+          "url": "https://github.com/YasAlex/Testing/raw/plcduino/mhsd-plcduino.zip",
+          "archiveFileName": "mhsd-plcduino.zip",
+          "checksum": "SHA-256:827AC5383ABE39C6926A917A6400855329C3108053B49B54D50A7027C95241D9",
+          "size": "158696",
+          "boards": [
+            {"name": "Mhsd PLC Duino"}
+		],
+          "toolsDependencies": []
+        }
+      ],
+
+      "tools": []
+    }
+  ]
+}
+
